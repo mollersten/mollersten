@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mollersten
 - 👀 I’m interested in programming overall, but aim to focus on Rust and Cybersecurity in the future.
-- 🌱 I’m currently learning Typescript, React and Rust. 
+- 🌱 I’m currently learning Typescript, React, C#, .NET and Rust. 
 - 📫 How to reach me on isak.mollersten@gmail.com
 - ⚡ Fun fact: I worked on a startup called VoteBash for 4 years but recently decided to focus on my teenage hobby of the programming world.
 - Oh, and also studying Software Development at Uppsala Universitet
